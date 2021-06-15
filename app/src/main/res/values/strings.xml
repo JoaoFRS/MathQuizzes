@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MathQuizzes</string>
+    <string name="BackgroundLayout">Background Layout</string>
+    <string name="ButtonDefault">Default</string>
+    <string name="TitleBackground">Title Background</string>
+    <string name="AdditionButton">Addition button</string>
+    <string name="SubtractionButton">Subtraction button</string>
+    <string name="MultiplicationButton">Multiplication Button</string>
+    <string name="DivisionButton">Division Button</string>
+    <string name="Played">Played:</string>
+    <string name="Right">Right:</string>
+    <string name="Wrong">Wrong:</string>
+    <string name="GTCM">CHANGE TO CHALLENGE MODE</string>
+    <string name="GTPM">CHANGE TO practice mode</string>
+    <string name="Level">Level:</string>
+    <string name="Right_answers">Right answers:</string>
+    <string name="Right_answers_to_record">Record:</string>
+    <string name="Lives_left">  lives left</string>
+    <string name="Life_left">  life left</string>
+    <string name="Lives_left_start">Lives left:</string>
+    <string name="Leave">Leave</string>
+    <string name="Next">Next</string>
+</resources>
